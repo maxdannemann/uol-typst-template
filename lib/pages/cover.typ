@@ -89,9 +89,9 @@
         stack(
           line(start: (0pt, 0pt), length: 25pt, stroke: 0.9mm),
           v(3mm),
-          text("HOCHSCHULE EMDEN/LEER", size: 9pt, weight: "bold", font: "Open Sans"),
+          text("Carl von Ossietzky Universität", size: 9pt, weight: "bold", font: "Open Sans"),
           v(2mm),
-          text("University of Applied Sciences Emden/Leer", size: 9pt, font: "Open Sans")
+          text("MIO: Marketing & Innovation Oldenburg", size: 9pt, font: "Open Sans")
         )
       )
     )
