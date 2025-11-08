@@ -10,7 +10,7 @@
     "of-the-study-course": "of the study course",
     "in-the-module": "in the Module",
     "at-the-faculty-of": "at the Faculty of",
-    "at-university": "at University of Applied Sciences Emden/Leer",
+    "at-university": "at Carl from Ossietzky University Oldenburg",
     
     // Supervisors and company
     "first-supervisor": "First supervisor",
