@@ -1,11 +1,11 @@
 [package]
-name = "ostfriesen-layout"
-version = "0.1.0"
+name = "uol-layout"
+version = "1.0"
 entrypoint = "lib/lib.typ"
-authors = ["Tobias Behrendt"]
+authors = ["Maximilian Dannemann"]
 license = "MIT"
-description = "A clean, professional template for academic writing at University of Applied Sciences Emden/Leer."
-repository = "https://github.com/TobiBeh/HS-Emden-Leer-Typst-Template"
+description = "A clean template for academic writing at University of Oldenburg."
+repository = "https://github.com/maxdannemann/uol-typst-template"
 keywords = ["academic", "thesis", "report", "research", "hochschule-emden-leer"]
 categories = ["report", "thesis"]
 compiler = "0.13.1"
