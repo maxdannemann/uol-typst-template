@@ -1,18 +1,20 @@
-# Ostfriesen Layout Typst Template
+# UOL Layout Typst Template
 
 [![Typst](https://img.shields.io/badge/Typst-v0.13.1+-blue)](https://typst.app/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
 [![Status](https://img.shields.io/badge/Status-Beta-yellow.svg)](https://github.com/your-username/typst-template)
 
-A clean, professional Typst template for academic writing at Hochschule Emden/Leer. The template supports multiple authors, custom document types, and follows academic formatting standards.
+A clean, professional Typst template for academic writing at Uni Oldenburg. The template supports multiple authors, custom document types, and follows academic formatting standards.
 
-This is an **`unofficial`** template. It is not affiliated with Hochschule Emden/Leer.
+This is an **`unofficial`** template. It is not affiliated with Uni Oldenburg.
 
 ## Acknowledgments
 
-This template is heavily inspired by [HAW-Hamburg-Typst-Template](https://github.com/LasseRosenow/HAW-Hamburg-Typst-Template) created by [Lasse Rosenow](https://github.com/LasseRosenow). Many thanks to Lasse for creating such an excellent foundation that this project builds upon.
+This template is heavily inspired by [HAW-Hamburg-Typst-Template](https://github.com/LasseRosenow/HAW-Hamburg-Typst-Template) created by [Lasse Rosenow](https://github.com/LasseRosenow) as well as the [Ostfriesen-Layout-Typst-Template](https://github.com/TobiBeh/HS-Emden-Leer-Typst-Template) which was approved upon by [Tobi Beh](https://github.com/TobiBeh). Many thanks to Lasse for creating such an excellent foundation that this project builds upon.
 
 ## Features
+
+All the features have been created by the previous users:
 
 - 📝 Support for multiple authors and matriculation numbers
 - 🏢 Company and supervisor information
